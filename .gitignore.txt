@@ -1,5 +1,0 @@
-# Arma 3
-*.paa
-*.rvmat
-*.p3d
-*.cfg
